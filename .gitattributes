@@ -1,0 +1,9 @@
+# Exclude build artifacts
+# Generated on 2026-11-10
+go.sum linguist-generated
+*.ico binary  
+public/*.html linguist-vendored
+
+*.rs linguist-detectable
+*.woff2 binary
+*.gif binary
